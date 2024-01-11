@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.sk {
+    height: auto;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+}
+
+.linked {
+    color: black;
+}
+
+
+.para1 {
+    font-size: 17px;
+    font-weight: 500;
+    position: absolute;
+    text-decoration: underline;
+}
+
+.inputt {
+    width: 60%;
+}
+
+.heading {
+    font-family: Times New Roman;
+
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: #fcb944;
+    text-decoration-style: solid;
+
+}
+
+.protitle {
+    text-align: center;
+}
+
+.but {
+    font-weight: 500;
+}
+
+.inputlast {
+    background-color: white;
+}
+
+.image1 {
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 10px;
+    box-shadow: 0px 0px 2px 2px black;
+}
+
+.projects {
+    height: auto;
+    width: 100%;
+}
+
+.bor {
+    padding: 20px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    overflow-x: hidden;
+
+}
+
+.contacts {
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+
+tr,
+th {
+    text-align: center;
+    padding: 10px;
+    font-family: Roboto;
+
+}
+
+tr:nth-child(even) {
+    background-color: lightblue;
+}
+
+table {
+    border: none;
+}
+
+th {
+    background-color: gray;
+    color: white;
+}
+
+
+
+.a {
+    box-shadow: 0px 0px 10px 0px black;
+}
+
+.kk {
+    height: 100vh;
+    width: 100%;
+}
