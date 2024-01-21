@@ -11,6 +11,9 @@
     color: black;
 }
 
+.link:hover {
+    background-color: #f0c024;
+}
 
 .para1 {
     font-size: 17px;
